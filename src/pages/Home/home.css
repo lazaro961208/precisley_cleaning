@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "Francois-One";
+  src: local("Francois-One"),
+    url("/public/assets/Francois_One/FrancoisOne-Regular.ttf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Gilda_Display";
+  src: local("Gilda_Display"),
+    url("/public/assets/Gilda_Display/GildaDisplay-Regular.ttf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: local("Quicksand"),
+    url("/public/assets/Quicksand/Quicksand-VariableFont_wght.ttf")
+      format("opentype");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li,
+button,
+span {
+  font-weight: 600;
+  color: #607785;
+  font-family: Quicksand;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 250px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.product-list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 80%;
+}
+
+.new-arrivals {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-family: Francois-One;
+}
+
+.cookies {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  align-items: center;
+}
+
+.cookies > p {
+  color: black;
+  font-size: 14px;
+}
+
+.cookies > button:hover {
+  color: white;
+}
+
+.cookies > button {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  width: 100px;
+  padding: 10px 5px 10px 5px;
+  text-transform: capitalize;
+}
+
+ 
+.alert > p {
+  color: white;
+}
+
+.alert {
+  background-color: red;
+  height: 50px;
+  margin-top: -16px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100w;
+  margin-left: -5px;
+}

@@ -1,0 +1,596 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Brown Pijama",
+      "price": 23.0,
+      "stock": 3,
+      "categorie": "for babies",
+      "rated": 3,
+      "tags": [
+        "Pijama",
+        "Baby"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "brown",
+        "material": "fabric",
+        "age": 3
+      },
+      "reviews": [
+        "review 1",
+        "review 2"
+      ],
+      "sku": "001",
+      "images": [
+        "1",
+        "1-1"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Knitted Sweater",
+      "price": 15.0,
+      "stock": 3,
+      "categorie": "for babies",
+      "rated": 4,
+      "tags": [
+        "Sweater",
+        "Baby"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "multi-color",
+        "material": "fabric",
+        "age": 4
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "2",
+        "2-1"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pink Overalls",
+      "price": 15.0,
+      "stock": 3,
+      "categorie": "for babies",
+      "rated": 5,
+      "tags": [
+        "Overalls",
+        "Baby"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "pink",
+        "material": "fabric",
+        "age": 3
+      },
+      "reviews": [
+        "review 1",
+        "review 2"
+      ],
+      "sku": "001",
+      "images": [
+        "3",
+        "3-1"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pencil Sweater",
+      "price": 20.0,
+      "stock": 3,
+      "categorie": "for babies",
+      "rated": 4,
+      "tags": [
+        "Sweater",
+        "Baby"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "white",
+        "material": "fabric",
+        "age": 3
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "4",
+        "4-1"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gray and White Sweater",
+      "price": 28.5,
+      "stock": 3,
+      "categorie": "for babies",
+      "rated": 4,
+      "tags": [
+        "Sweater",
+        "Baby"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "Gray and White",
+        "material": "fabric",
+        "age": 3
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "5",
+        "5-1"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dinosaur Shirt",
+      "price": 30.5,
+      "stock": 3,
+      "categorie": "for boys",
+      "rated": 4,
+      "tags": [
+        "Shirt",
+        "Boy"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "green",
+        "material": "fabric",
+        "age": 12
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "1",
+        "1-1"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mike Mouse Pullover",
+      "price": 36.5,
+      "stock": 3,
+      "categorie": "for boys",
+      "rated": 5,
+      "tags": [
+        "Pullover",
+        "Boy"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "multi color",
+        "material": "fabric",
+        "age": 12
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "2"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Striped Quilt",
+      "price": 40.5,
+      "stock": 3,
+      "categorie": "for boys",
+      "rated": 5,
+      "tags": [
+        "Quilt",
+        "Boy"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "color",
+        "material": "fabric",
+        "age": 10
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "3",
+        "3-1"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "dinosaur Pullover",
+      "price": 40.5,
+      "stock": 3,
+      "categorie": "for boys",
+      "rated": 5,
+      "tags": [
+        "Pullover",
+        "Boy"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "Gray and White",
+        "material": "fabric",
+        "age": 14
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "4",
+        "4-1"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rainbow Dress",
+      "price": 40.5,
+      "stock": 3,
+      "categorie": "for girls",
+      "rated": 5,
+      "tags": [
+        "Dress",
+        "Girl"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "color",
+        "material": "fabric",
+        "age": 11
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "1",
+        "1-1"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Blue Blouse",
+      "price": 22.00,
+      "stock": 3,
+      "categorie": "for girls",
+      "rated": 5,
+      "tags": [
+        "Blouse",
+        "Girl"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "2",
+        "2-1"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Denim Jacket",
+      "price": 22.00,
+      "stock": 0,
+      "categorie": "for girls",
+      "rated": 4,
+      "tags": [
+        "Jacket",
+        "Girl"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "3",
+        "3-1"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Rainbow Pillow",
+      "price": 22.00,
+      "stock": 0,
+      "categorie": "for home",
+      "rated": 3,
+      "tags": [
+        "Home"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "1",
+        "1-1"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Rabbit Bag",
+      "price": 22.00,
+      "stock": 0,
+      "categorie": "for home",
+      "rated": 5,
+      "tags": [
+        "Home"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "2",
+        "2-1"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Brown Rainy Bag",
+      "price": 15.00,
+      "stock": 10,
+      "categorie": "for home",
+      "rated": 5,
+      "tags": [
+        "Home"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        "review 1",
+        "review 2"
+      ],
+      "sku": "001",
+      "images": [
+        "3",
+        "3-1"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Toy hoops",
+      "price": 22.00,
+      "stock": 10,
+      "categorie": "for play",
+      "rated": 5,
+      "tags": [
+        "play"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "1",
+        "1-1"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "baby car toy",
+      "price": 22.00,
+      "stock": 10,
+      "categorie": "for play",
+      "rated": 5,
+      "tags": [
+        "play"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat.",
+      "aditional_information": {
+        "color": "blue",
+        "material": "Catton",
+        "age": 6
+      },
+      "reviews": [
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        },
+        {
+          "name": "cmsmasters",
+          "date": "December 5, 2023",
+          "img": "",
+          "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem recusandae inventore, corporis eius nihil adipisci rerum culpa aut ad iure, repellendus, laboriosam in! Obcaecati unde, tenetur numquam cum veritatis placeat."
+        }
+      ],
+      "sku": "001",
+      "images": [
+        "2"
+      ]
+    }
+  ]
+}

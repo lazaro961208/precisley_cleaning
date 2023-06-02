@@ -1,0 +1,156 @@
+.product-tabs-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.tab-button {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-button > img {
+  transition: width 0.5s;
+  width: 80px;
+  margin: auto;
+}
+
+.button {
+  margin: 20px;
+  border: none;
+  background-color: transparent;
+  font-size: 24px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.button:hover {
+  transition: color 0.5s;
+  color: #e5735b;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 24px;
+  font-weight: 200;
+  
+}
+
+.rating {
+  margin-bottom: 20px;
+}
+
+.content-review {
+  border: 0.5px solid;
+  padding: 25px;
+  border-style: dashed;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.info {
+  font-weight: 100;
+  color: gray;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.card-body {
+  margin-top: -15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.form-control {
+  display: flex;
+  margin-right: 20px;
+  flex-direction: column;
+}
+
+.form-control-input {
+  border: 0.5px;
+  border-style: dashed;
+  height: 50px;
+  width: 200px;
+}
+
+.form-submit {
+  display: flex;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.avatar > img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.card-review {
+  margin-top: 20px;
+  display: flex;
+  border: 0.5px;
+  border-style: dashed;
+  padding: 20px;
+}
+
+.reviews-content {
+  width: 100%;
+}
+
+.rating-info {
+  margin-bottom: 10px;
+}
+.review-info {
+  margin-bottom: 10px;
+}
+
+.footer-info {
+  margin-top: 12px;
+}
+
+.add-review {
+  margin-top: 100px;
+}
+
+.top-info {
+  display: flex;
+}
+
+.name {
+  margin-right: 15px;
+}
+
+.reviews-title {
+  font-weight: 200;
+  
+  margin-bottom: 40px;
+}
+
+.your-review {
+  width: max-content;
+}
+
+.text-area {
+  border-style: dashed;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 100% !important;
+}
+
+
+.description {
+  color : #9b958f;
+  font-size: 18px;
+  font-weight: 400;
+}

@@ -1,0 +1,17 @@
+.button-dotted {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.botton-text,
+a {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.button {
+  width: 100%;
+  margin-top: 0px;
+}

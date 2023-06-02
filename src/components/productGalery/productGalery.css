@@ -1,0 +1,29 @@
+.img-zoom {
+  position: absolute;
+  overflow: hidden;
+}
+
+.zoom-height {
+  position: absolute;
+  display: none;
+  overflow: hidden;
+}
+
+.other-images > img {
+  width: 60;
+  height: 120px;
+  margin-right: 5px;
+}
+
+.loading {
+  position: absolute;
+  background-color: rgb(0, 0, 0, 0.4);
+  padding: 10px;
+  display: flex;
+  width: 480px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 60px;
+}

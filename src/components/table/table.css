@@ -1,0 +1,16 @@
+.product-table-data {
+  width: 100%;
+}
+
+.key,
+.value {
+  text-transform: capitalize;
+}
+
+.key {
+  width: 50px;
+}
+  
+.value {
+  color: #9b958f;
+}

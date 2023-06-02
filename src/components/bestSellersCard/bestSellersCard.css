@@ -1,0 +1,34 @@
+.best-sellers-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.best-sellers-card-body {
+  margin-top: -10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.best-sellers-card-body-title {
+  margin-bottom: -11px;
+}
+.best-sellers-card-body-price {
+  margin-top: -11px;
+}
+
+.best-sellers-card-img > img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.best-sellers-title {
+  text-transform: uppercase;
+  font-family: Francois-One;
+}

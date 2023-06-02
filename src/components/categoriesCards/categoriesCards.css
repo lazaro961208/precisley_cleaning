@@ -1,0 +1,29 @@
+.categories-card {
+  padding: 250px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.categories-card-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 40px;
+
+  border: 0.6px solid black;
+  border-style: dotted;
+}
+
+.title-categorie-list {
+  margin-top: 20px;
+  text-align: start;
+  font-size: 24px;
+}
+
+.categorie-card > p {
+  text-align: center;
+}
+
+.font {
+  font-family: Quicksand;
+}

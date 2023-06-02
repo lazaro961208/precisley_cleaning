@@ -1,0 +1,30 @@
+.newsletter-card {
+  background-color: #e5735b;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.newsletter-card-title {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  
+}
+
+.newsletter-card-input {
+  margin-bottom: 20px;
+  border: 2px solid white;
+  border-style: dotted;
+  width: auto;
+  background-color: transparent;
+  color: white;
+  padding: 15px;
+  
+}
+
+.newsletter-card-input::placeholder {
+  color: white;
+  text-transform: capitalize;
+}

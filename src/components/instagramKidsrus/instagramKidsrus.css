@@ -1,0 +1,24 @@
+.instagram {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.instagram-header {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 60px;
+}
+
+.instagram-body {
+  display: flex;
+  justify-content: center;
+}
+
+.instagram-body > img {
+  margin-right: 10px;
+}
+
+.instagram-body > img:hover {
+  filter: opacity(0.8);
+}
